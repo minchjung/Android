@@ -8,3 +8,7 @@
 |04.|Gauge| Thread :o:|[Link](https://github.com/minchjung/Android/tree/master/26Guage_library01)|
 |05.|Gauge| SpeedMeter Thread :x:|[Link](https://github.com/minchjung/Android/tree/master/27Gauge_diffLibrary01)|
 |06.|Heatmap & Gauge| 05Gauge ➕  03.Heatmap|[Link](https://github.com/minchjung/Android/tree/master/28Gauge_Heatmap02)|
+## Thread 
+[01](https://itmining.tistory.com/4)  
+[02](https://itmining.tistory.com/4)    
+
