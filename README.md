@@ -1,5 +1,6 @@
 ## Android
 [Gauge](https://github.com/anastr/SpeedView/wiki/0.-Get-Started)  
+[Gauge](https://github.com/owl-93/Determinate-Progress-View)  
 |No.|Titile|Contents|Link|
 |:---:|:---:|:---:|:---:|
 |01.|Heatmap|Asynch_Thread|[Link](https://github.com/minchjung/Android/tree/master/23Heatmap_library01)|
@@ -10,5 +11,5 @@
 |06.|Heatmap & Gauge| 05Gauge ➕  03.Heatmap|[Link](https://github.com/minchjung/Android/tree/master/28Gauge_Heatmap02)|
 ## Thread 
 [01](https://itmining.tistory.com/4)  
-[02](https://itmining.tistory.com/4)    
-
+[02](https://itmining.tistory.com/5?category=640759)    
+[]()  
