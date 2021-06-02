@@ -1,6 +1,10 @@
 ## Android
 [Gauge](https://github.com/anastr/SpeedView/wiki/0.-Get-Started)  
 [Gauge](https://github.com/owl-93/Determinate-Progress-View)  
+[Gauge](https://github.com/CodeAndMagic/GaugeView)  
+[Progress](https://github.com/free-bots/TemperatureGauge)
+[Progress](https://jaejong.tistory.com/3)  
+
 |No.|Titile|Contents|Link|
 |:---:|:---:|:---:|:---:|
 |01.|Heatmap|Asynch_Thread|[Link](https://github.com/minchjung/Android/tree/master/23Heatmap_library01)|
@@ -12,4 +16,5 @@
 ## Thread 
 [01](https://itmining.tistory.com/4)  
 [02](https://itmining.tistory.com/5?category=640759)    
-[]()  
+[03](https://jaejong.tistory.com/3)  
+[04](https://developer.android.com/reference/android/os/AsyncTask)  
