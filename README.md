@@ -19,3 +19,5 @@
 [02](https://itmining.tistory.com/5?category=640759)    
 [03](https://jaejong.tistory.com/3)  
 [04](https://developer.android.com/reference/android/os/AsyncTask)  
+[05 Android official](https://developer.android.com/training/articles/perf-anr#anr)  
+
