@@ -17,7 +17,7 @@
 
 No.|Titile|Contents|Link|
 |:---:|:---:|:---:|:---:|
-|01.|Activity Communication|Two Activities Transfer Datas||
+|01.|Intent|Activities Communication startForResultIntent()<-replaced||
 
 
 ## Thread 
