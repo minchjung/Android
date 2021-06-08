@@ -15,9 +15,9 @@
 |06.|Heatmap & Gauge| 05Gauge ➕  03.Heatmap|[Link](https://github.com/minchjung/Android/tree/master/28Gauge_Heatmap02)|
 |07.|All|Heatmap & Circle & Bar Gauge(ProgressBar)|[Link](https://github.com/minchjung/Android/tree/master/30Gauge_Circle_Bar3_Heatmap01/main)|  
 
-No.|Titile|Contents|Link|
+No.|Titile|Contents|Detail|Link|
 |:---:|:---:|:---:|:---:|
-|01.|Activity|Activity Communication(Data Transfer)|[]()|
+|01.|Activity|Activity Communication|Two Activities Transfer Data each other and set on Edit TextView||
 
 
 ## Thread 
