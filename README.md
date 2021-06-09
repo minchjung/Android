@@ -18,6 +18,7 @@
 No.|Titile|Contents|Link|
 |:---:|:---:|:---:|:---:|
 |01.|Intent|Activities Communication startForResultIntent()<-replaced||
+|02.|MusicPlayer|Http-Json Parsing, MediaPlayer-preapreAsynce, ProgressBar-new Thread||
 
 
 ## Thread 
