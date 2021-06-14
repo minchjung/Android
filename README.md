@@ -20,7 +20,8 @@ No.|Titile|Contents|Link|
 |01.|Intent|Activities Communication startForResultIntent()<-replaced||
 |02.|MusicPlayer|Http-Json Parsing, MediaPlayer-preapreAsynce, ProgressBar-new Thread||
 |03.|MusicPlayer|progressBar-SetonSeekBarChangeListener, lyrics matching<--hardcore...||
-|03.|MusicPlayer|Service & Activity Transition||
+|04.|MusicPlayer|Service & Activity Transition||
+|05.|MusicPlayer|Service & Activity DataBinding||
 
 
 
